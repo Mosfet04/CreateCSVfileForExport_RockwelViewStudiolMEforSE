@@ -1,0 +1,9 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\bin\Release\CreateCSVfileForExport_MEforSE.exe.config
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\bin\Release\CreateCSVfileForExport_MEforSE.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\bin\Release\CreateCSVfileForExport_MEforSE.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\obj\Release\CreateCSVfileForExport_MEforSE.Form1.resources
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\obj\Release\CreateCSVfileForExport_MEforSE.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\obj\Release\CreateCSVfileForExport_MEforSE.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\obj\Release\CreateCSVfileForExport_MEforSE.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\obj\Release\CreateCSVfileForExport_MEforSE.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\programas\programas\CreateCSVfileForExport_MEforSE\obj\Release\CreateCSVfileForExport_MEforSE.pdb
